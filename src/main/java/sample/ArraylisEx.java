@@ -10,10 +10,10 @@ public class ArraylisEx
 
         ArrayList<String> al = new ArrayList<String>();
 
-        al.add("Ravi");
-        al.add("Vijay");
-        al.add("Ravi");
-        al.add("Ajay");
+//        al.add("Ravi");
+//        al.add("Vijay");
+//        al.add("Ravi");
+//        al.add("Ajay");
 
 
         Iterator itr = al.iterator();
